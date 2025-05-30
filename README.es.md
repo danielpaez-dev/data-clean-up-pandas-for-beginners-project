@@ -8,7 +8,7 @@
 
 <how-to-start>
   
-## 🌱  Cómo iniciar este proyecto
+## 🌱  ¿Cómo iniciar este proyecto?
 
 Sigue las siguientes instrucciones:
 
@@ -18,9 +18,24 @@ Sigue las siguientes instrucciones:
 
 </how-to-start>
 
-## 🚛 Cómo entregar este proyecto
+## 🚛 ¿Cómo entregar este proyecto?
 
-Una vez que hayas terminado de resolver los ejercicios, asegúrate de confirmar tus cambios, haz push a tu repositorio y ve a 4Geeks.com para subir el enlace del repositorio.
+Una vez que completes los ejercicios, sigue estos pasos para enviarlos correctamente:
+
+1. Guarda y confirma los cambios en tu repositorio local, utilizando en la terminal los comandos:
+
+```sh
+git add .
+git commit -m "Completed exercises"
+```
+
+2. Posteriormente, sube los cambios a GitHub con:
+
+```sh
+git push origin main
+```
+
+3. Dirígete a 4Geeks.com, a tu proyecto correspondiente para enviar el enlace de tu repositorio.
 
 ## 📝 Instrucciones
 
